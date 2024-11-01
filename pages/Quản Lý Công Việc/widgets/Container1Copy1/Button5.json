@@ -1,0 +1,50 @@
+{
+  "animateLoading": true,
+  "borderRadius": "0px",
+  "bottomRow": 16,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.backgroundColor}}",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconAlign": "right",
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "it9nvn187m",
+  "leftColumn": 0,
+  "minWidth": 120,
+  "mobileBottomRow": 4,
+  "mobileLeftColumn": 15,
+  "mobileRightColumn": 31,
+  "mobileTopRow": 0,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('Quản Lý Công Việc', {}, 'SAME_WINDOW');}}",
+  "originalBottomRow": 16,
+  "originalTopRow": 12,
+  "parentColumnSpace": 10.8125,
+  "parentId": "m1nldqb66o",
+  "parentRowSpace": 10,
+  "placement": "START",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 64,
+  "text": "Quản Lý Công Việc",
+  "topRow": 12,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "mxsrgg0weh",
+  "widgetName": "Button5"
+}

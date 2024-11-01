@@ -1,0 +1,78 @@
+{
+  "appIsExample": false,
+  "applicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {
+      "colorStyle": "light",
+      "logoAssetId": "",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "navStyle": "stacked",
+      "orientation": "top",
+      "position": "static",
+      "showNavbar": false,
+      "showSignIn": true
+    },
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#D9E7FF",
+  "evaluationVersion": 2,
+  "icon": "steam-bowl",
+  "pages": [
+    {
+      "id": "Login",
+      "isDefault": false
+    },
+    {
+      "id": "Quản Lý Dự Án",
+      "isDefault": false
+    },
+    {
+      "id": "Tổng Quan",
+      "isDefault": true
+    },
+    {
+      "id": "Quản Lý Tài Khoản",
+      "isDefault": false
+    },
+    {
+      "id": "Quản Lý Công Việc",
+      "isDefault": false
+    },
+    {
+      "id": "Thêm Mới Công Việc",
+      "isDefault": false
+    },
+    {
+      "id": "Chi Tiết Công Việc",
+      "isDefault": false
+    }
+  ],
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {
+      "colorStyle": "light",
+      "logoAssetId": "",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "navStyle": "stacked",
+      "orientation": "top",
+      "position": "static",
+      "showNavbar": false,
+      "showSignIn": true
+    },
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  }
+}

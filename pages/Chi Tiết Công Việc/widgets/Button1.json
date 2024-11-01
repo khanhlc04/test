@@ -1,0 +1,61 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 32,
+  "bottomRowBeforeCollapse": 35,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconAlign": "left",
+  "iconName": "add",
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "d3qnd9ilja",
+  "leftColumn": 54,
+  "minWidth": 120,
+  "mobileBottomRow": 43,
+  "mobileLeftColumn": 45,
+  "mobileRightColumn": 61,
+  "mobileTopRow": 39,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('Thêm Mới Công Việc', {\n \"key\": data.task.id,\n}, 'SAME_WINDOW');}}",
+  "originalBottomRow": 35,
+  "originalTopRow": 31,
+  "parentColumnSpace": 10.8125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 64,
+  "text": "Thêm Công Việc Con",
+  "topRow": 28,
+  "topRowBeforeCollapse": 31,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "1g3bjtrqud",
+  "widgetName": "Button1"
+}

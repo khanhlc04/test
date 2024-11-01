@@ -1,0 +1,56 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "alignment": "left",
+  "animateLoading": true,
+  "bottomRow": 26,
+  "boxShadow": "none",
+  "defaultOptionValue": "",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "options"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicPropertyPathList": [
+    {
+      "key": "options"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "flexVerticalAlignment": "start",
+  "isDisabled": false,
+  "isInline": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "1697zk6jju",
+  "label": "Người Quản Lý",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "mobileBottomRow": 33,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 15,
+  "mobileTopRow": 27,
+  "needsErrorInfo": false,
+  "options": "{{data.employee}}",
+  "originalBottomRow": 33,
+  "originalTopRow": 22,
+  "parentColumnSpace": 10.5,
+  "parentId": "jpz8urd1ft",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 22,
+  "topRow": 22,
+  "type": "RADIO_GROUP_WIDGET",
+  "version": 1,
+  "widgetId": "klys7blo2s",
+  "widgetName": "RadioGroup1"
+}
